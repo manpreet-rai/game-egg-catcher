@@ -8,16 +8,16 @@ A game for kids to play on Microsoft Windows
 
 ### Screenshots
 #### Launcher
-![Launcher](./Screenshots/launcher.png)
+![Launcher](./screenshots/launcher.png)
 
 #### Help
-![Help](./Screenshots/help.png)
+![Help](./screenshots/help.png)
 
 #### About
-![About](./Screenshots/about.png)
+![About](./screenshots/about.png)
 
 #### Gameplay
-![Gameplay](./Screenshots/gameplay.png)
+![Gameplay](./screenshots/gameplay.png)
 
 
 ### Game needs .Net Core 3.1
@@ -29,4 +29,4 @@ Choose **Windows x64 | x86** based on your system.
 
 This will create a desktop shortcut, that you can launch to play this game.
 
-Ⓒ Copyright 2021 Manpreet Rai. All rights reserved.
+Ⓒ Copyright 2021 Manpreet Rai. Some rights reserved. You are free to play and share this game.
